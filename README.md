@@ -6,6 +6,73 @@
 
 - 📫 How to reach me **wridhimoy@gmail.com**
 
+- # Hi, I'm Wridhimoy Bose! 👋
+
+📧 Email: wridhimoy@gmail.com | ☎️ Phone: 8910139844 | [LinkedIn](https://www.linkedin.com/in/wridhimoy/)
+
+## Professional Summary
+
+Experienced and highly skilled Java Developer with over 3 years of proficiency in designing, developing, and maintaining robust and scalable Java applications utilizing Spring Boot. Possesses expertise in MySQL database management, multi-threading, and the implementation of authentication systems. Adept at resolving intricate problems with a keen emphasis on algorithmic efficiency.
+
+## Technical Knowledge
+
+- **Languages:** Java, Python, JavaScript
+- **Frameworks:** Struts 2.0, Hibernate 3.0, Spring Boot
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle
+- **Tools:** Git, Docker, Kubernetes, Maven, Jenkins, Terraform, AWS
+
+## Work Experience
+
+### Thomson Reuters, Bengaluru, KA
+
+#### Software Engineer | Judicial Systems Support (May. 2021 - May 2023)
+
+- Developed and maintained Java-based microservices using Spring Boot for judicial repositories.
+- Implemented new features in JavaScript, enhancing user experience.
+- Managed MySQL databases and performed queries using SQL Developer.
+- Automated tasks through Linux shell scripts and Cron jobs.
+- Utilized Git for version control and Azure DevOps for agile development processes.
+
+#### Software Engineer | Cobalt Regression Testing (May. 2023 - Present)
+
+- Led test planning, creation, execution, and maintenance for flagship products.
+- Conducted API and UI testing, created test cases, and documented issues in JIRA.
+- Implemented CI/CD pipelines using Jenkins for automated testing.
+- Monitored test runs and analyzed reports using tools like Report Portal.
+- Served as Scrum Master and liaised between stakeholders and developers.
+
+## Projects
+
+### Issue Tracker Application
+
+- Built a web-based issue-tracking tool using Java, Spring MVC, Hibernate, and MySQL.
+- Incorporated features like user management, project management, issue assignment, tagging, searching, and reporting.
+- Implemented REST APIs for integration with other applications.
+- Deployed the app on the Tomcat server and created CI/CD pipelines using Jenkins.
+
+### Personal Finance Manager
+
+- Created a personal finance manager tool with Java FX and SQLite for the desktop.
+- Integrated with third-party APIs to fetch stock quotes and current exchange rates.
+- Generated various reports for analyzing spending patterns and budget tracking.
+- Automated background tasks like data backups using multi-threading.
+
+## Internships
+
+### Crio.Do, Bengaluru, KA (Apr. 2022)
+
+- Project-based internship focused on strengthening REST API fundamentals, Git, and Java programming.
+- Hands-on experience with JSON formatted data using Java libraries like Jackson.
+- Familiarized with Spring REST template for making API calls and fetching financial data.
+- Acquired skills in Gradle and Exception Handling.
+- Built a food ordering app like Swiggy (QEats) using Spring Boot, Java, MongoDB, Redis, Low-Level Design, and Scientific debugging.
+
+## Education
+
+- **KIIT University, Bhubaneswar, India**
+  - Bachelor of Technology in Electronics Engineering (June 2021)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
