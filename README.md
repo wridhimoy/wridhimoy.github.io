@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **wridhimoy@gmail.com**
 
-- # Hi, I'm Wridhimoy Bose! 👋
-
 📧 Email: wridhimoy@gmail.com | ☎️ Phone: 8910139844 | [LinkedIn](https://www.linkedin.com/in/wridhimoy/)
 
 ## Professional Summary
